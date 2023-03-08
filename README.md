@@ -1,1 +1,2 @@
-this project is about making files executable
+#!/bin/bash
+second repo /n
